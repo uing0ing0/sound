@@ -72,7 +72,7 @@ An Open-Source Music Player App for all your needs!
 - Play videos as audio
 - Auto Song Recommendations
 - Inbuilt Equalizer
-- Backup & Restore
+- Backup & Restor
 - Auto Update Check
 - Cache support
 - No Subscription
